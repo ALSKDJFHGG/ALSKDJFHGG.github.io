@@ -9,6 +9,7 @@ lang: en
 tags:
   - UX/UI
   - En
+  - life
 ---
 
 > hi, i am yang.This is my first Blog, i'll push my study in my Blog.

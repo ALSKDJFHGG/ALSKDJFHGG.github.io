@@ -1,1 +1,1 @@
-Hey，我是阳（a.k.a. Yang, _@ALSKDJFHGG_），一个略懂计算机科学与技术的青年。
+Hey，我是阳（a.k.a. yang, _@ALSKDJFHGG_），一个略懂计算机科学与技术的青年。

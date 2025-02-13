@@ -4,7 +4,7 @@ SEOTitle: 阳的博客 | ALSKDJFHGG Blog
 header-img: img/home-bg.jpg
 email: 2294288093@qq.com
 description: "这里是 @阳 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "阳, Hux, 鬼栈, yang, @ALSKDJFHGG, ALSKDJFHGG的博客, ALSKDJFHGG Blog, 博客, 个人网站"
+keyword: "阳, yang, 鬼栈, yang, @ALSKDJFHGG, ALSKDJFHGG的博客, ALSKDJFHGG Blog, 博客, 个人网站"
 url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: yang
 
 # Netease settings
 netease_comment: false
